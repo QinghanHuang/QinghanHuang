@@ -12,13 +12,12 @@ Welcome to my Github page! I am Qinghan Huang and I am currently finishing my Co
 #### 🌱 Current Projects: 
 - ChatGPT Robot 
 - SQL AI Assitant
-- Microsevice Architecture Railway Ticket Booking System ( SpringCloud + Kafka MQ + ShardingSphere + Redis + MySQL)
+- Spring Cloud Microsevice Architecture Railway Ticket Booking System 
  
 #### :muscle: Current Study:
+
 - Kubernetes--Container orchestration
 - Jenkins -- CI/CD
-
- 
 
  
 #### :computer: Programming languages and tools: 
@@ -34,7 +33,7 @@ Welcome to my Github page! I am Qinghan Huang and I am currently finishing my Co
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-ar21.svg"></code>
 <br />
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></code>
 <br />
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
