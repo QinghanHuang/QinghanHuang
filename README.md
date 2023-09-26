@@ -20,7 +20,7 @@ Welcome to my Github page! I am Qinghan Huang and I am currently finishing my Co
 - Jenkins -- CI/CD
 
  
-#### :computer: Programming languages and tools: 
+#### :computer: Proficient Programming languages and tools: 
 <p>
 	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=QinghanHuang&show_icons=true&hide_border=true" />
 	
