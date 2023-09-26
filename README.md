@@ -5,7 +5,7 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/qinghan-huang-842095254/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:darvish841@gmail.com)
  
-Welcome to my Github page! I am Qinghan Huang and I am currently finishing my Computer Science Master degree at University College Dublin!  
+Welcome to my Github page! I am Qinghan Huang, currently finishing my Computer Science Master's degree at University College Dublin!  
  
 <img align="right" alt="img" src="https://github.com/QinghanHuang/QinghanHuang/blob/main/IMG_9340.JPG" width="50%" height="auto" />
 
