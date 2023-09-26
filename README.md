@@ -7,7 +7,7 @@
  
 Welcome to my Github page! I am Qinghan Huang and I am currently finishing my Computer Science Master degree at University College Dublin!  
  
-<img align="right" alt="img" src="https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg" width="50%" height="auto" />
+<img align="right" alt="img" src="https://github.com/QinghanHuang/QinghanHuang/blob/main/IMG_9340.JPG" width="50%" height="auto" />
  
  
 #### 🌱 Things I am currently working on: 
