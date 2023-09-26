@@ -44,4 +44,4 @@ Welcome to my Github page! I am Qinghan Huang and I am currently finishing my Co
 
 </p>
  
-<sub>Credits to: <br/>[IreneHerrerart](https://www.artstation.com/ireneherrera) for the wonderfull [picture](https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg)</sub>
+
