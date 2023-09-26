@@ -12,12 +12,14 @@ Welcome to my Github page! I am Qinghan Huang and I am currently finishing my Co
 #### 🌱 Current Projects: 
 - ChatGPT Robot 
 - SQL AI Assitant
+- IOS Swift Dating APP
 - Spring Cloud Microsevice Architecture Railway Ticket Booking System 
  
 #### :muscle: Current Study:
 
 - Kubernetes--Container orchestration
 - Jenkins -- CI/CD
+- NLP -- Machine Learning
 
  
 #### :computer: Proficient Programming languages and tools: 
